@@ -48,5 +48,10 @@ export const weatherOptions = {
         iconName: "weather-hail",
         gradient: ["#4DA0B0", "#D39D38"],
         title: "Haze",
+    },
+    Fog: {
+        iconName: 'weather-fog',
+        gradient: ['#000C40', '#F0F2F0'],
+        title: 'Fog'
     }
 }
