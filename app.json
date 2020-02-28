@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank asdf",
-    "slug": "fokin-weather",
+    "name": "weather-app",
+    "slug": "weather-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "Nomad 코더 강으 보고 만든 RN 날씨 앱",
+    "githubUrl": "https://github.com/wongil12/react-native-weather"
   }
 }
